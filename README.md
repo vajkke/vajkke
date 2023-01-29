@@ -10,7 +10,7 @@ I am a web developer with expertise in HTML, CSS, JavaScript and various framewo
 <br/>  
 
 <p align="center">
-  <img width="600" height="200" src="https://i.ibb.co/HCmF6Zd/6920fc266ea0a8bfbb02561dfdd18f1c-1.jpg">
+  <img src="https://i.ibb.co/HCmF6Zd/6920fc266ea0a8bfbb02561dfdd18f1c-1.jpg">
 </p>
 
 
