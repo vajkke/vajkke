@@ -1,5 +1,4 @@
-## Hey 👋, I'm Aleksandar! 
-#### I build things for the Web.  
+## Hey 👋, I'm Aleksandar! I build things for the Web.  
   
 
 
