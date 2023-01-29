@@ -9,9 +9,9 @@ I am a web developer with expertise in HTML, CSS, JavaScript and various framewo
 
 <br/>  
 
-<div align="center">
+
 ![alt text](https://i.ibb.co/HCmF6Zd/6920fc266ea0a8bfbb02561dfdd18f1c-1.jpg)  
-</div>
+
 
 <br/>  
 
