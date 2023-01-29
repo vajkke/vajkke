@@ -1,9 +1,9 @@
-## Hey 👋, I'm Aleksandar!  
+## Hey 👋, I'm Aleksandar!, I build things for the Web.  
   
 
 
 
-### I build things for the Web.  
+### About me
 I am a web developer with expertise in HTML, CSS, JavaScript and various frameworks. I create visually appealing and user-friendly websites with a strong focus on accessibility and industry standards. I am dedicated to delivering high-quality results.  
   
 
