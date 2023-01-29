@@ -9,16 +9,8 @@ I am a web developer with expertise in HTML, CSS, JavaScript and various framewo
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
 ![alt text](https://i.ibb.co/HCmF6Zd/6920fc266ea0a8bfbb02561dfdd18f1c-1.jpg)  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -61,4 +53,3 @@ I am a web developer with expertise in HTML, CSS, JavaScript and various framewo
 
 
 <br />
-
